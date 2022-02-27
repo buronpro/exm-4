@@ -18,7 +18,7 @@ elForm.addEventListener(('submit'), (evt) => {
             }
         
             else if (passwordInput == confirm ){
-             window.location.replace("index.html")  
+             window.location.replace("redim.html")  
             }
             return true
    
